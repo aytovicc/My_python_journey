@@ -1,0 +1,8 @@
+1) 1 - 100 arası bir sayı tut
+2) Kolay mı ? Zor mu ? olsun seçme şansı olsun:
+    2.1 - kolaysa 10 deneme şansı olsun
+    2.2 - zorsa 5 deneme şansı olsun
+3) Deneme yakın mı uzak mı karar verip her deneme sonrası dönüş yapılsın
+4) yanlışsa deneme şanse - 1 
+5) şans biterse oyun bitsin
+6) bilirse oyun bitsin    
